@@ -1,0 +1,6 @@
+{
+  "name": "Manas Saathi — Cognitive Wellness & Dementia Support",
+  "description": "An accessible cognitive wellness and dementia-support platform for elderly adults and their caregivers, featuring engaging cognitive activities, mood check-ins, and caregiver insights.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
